@@ -1,0 +1,19 @@
+{
+  "game": "Marvel Rivals",
+  "creator": "ItzTrackz",
+  "filler_item_name": "Victory Point",
+  "starting_items": [
+    {
+      "item_categories": ["Tank"],
+      "random": 2
+    },
+    {
+      "item_categories": ["Healer"],
+      "random": 2
+    },
+    {
+      "item_categories": ["DPS"],
+      "random": 2
+    }
+  ]
+}

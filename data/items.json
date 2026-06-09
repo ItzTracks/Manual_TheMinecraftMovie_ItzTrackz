@@ -1,0 +1,329 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Hulk",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Thor",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Groot",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Doctor Strange",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Magneto",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Captain America",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Venom",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Peni Parker",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "The Thing",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Emma Frost",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Angela",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Rogue",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Deadpool",
+            "count": 1,
+            "category": ["Tank", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Mantis",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Rocket Raccoon",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Luna Snow",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Adam Warlock",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Jeff The Landshark",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Invisible Woman",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Ultron",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Cloak and Dagger",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Gambit",
+            "count": 1,
+            "category": ["Healer", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Iron Man",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Storm",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Star-Lord",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Scarlet Witch",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Spider-Man",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Black Panther",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "The Punisher",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Moon Knight",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Winter Soldier",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Wolverine",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Iron Fist",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Blade",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Daredevil",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Hawkeye",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Hela",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Magik",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Squirrel Girl",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Black Widow",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Namor",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Psylocke",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "MrFantastic",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Human Torch",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "Phoenix",
+            "count": 1,
+            "category": ["DPS", "Hero"],
+            "progression": true
+        },
+        {
+            "name": "L-Shift Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "F Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "E Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "C Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "R-Click",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "Space Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "X Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "Z Key",
+            "count": 1,
+            "category": ["Modifier"],
+            "progression": true
+        },
+        {
+            "name": "Bonus Ability Slot",
+            "count": 7,
+            "category": ["Modifier"],
+            "progression": false
+        }
+    ]
+}

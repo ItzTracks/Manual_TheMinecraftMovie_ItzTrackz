@@ -1,0 +1,311 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 3",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 4",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 5",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 6",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 7",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 8",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 9",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Match 10",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Get MVP 1",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Get MVP 2",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Get SVP 1",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Get SVP 2",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win with 0 Deaths",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Most Kills",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Most Assists",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Quintuple KO",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Sextuple KO",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Social"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Play with 2 Friends",
+            "category": ["Social"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Play 18 vs 18",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Comp Win 24+ RR",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Handicap"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Handicap"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Handicap"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Inverted Controls",
+            "category": ["Handicap"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Take First Point",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "CC 3 Ults",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win as Tank",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win as Healer",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "DPS 20k Damage",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Healer 10k Heal",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Healer 20k Heal",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Tank 10k Block",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Tank 20k Block",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Keep Teammate Alive Match",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Keep Teammate Alive Round",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Most Damage",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Most Blocked",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Most Healing",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Full Heal 3 Critical Teammates",
+            "category": ["Role"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Get Ult 5 Times",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Kill 3 in 1 Ult",
+            "category": ["Combat"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win No Ult Usage",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Full Team Combo",
+            "category": ["Social"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win After Penalty",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "3 Match Streak",
+            "category": ["General"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Only Tanking",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Win Within 6 Mins",
+            "category": ["Challenge"],
+            "region": "Active Matches"
+        },
+        {
+            "name": "Final Goal",
+            "category": ["General"],
+            "region": "Active Matches",
+            "victory": true
+        }
+    ]
+}
