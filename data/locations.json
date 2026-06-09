@@ -1,311 +1,1214 @@
 {
-	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
-    "data": [
-        {
-            "name": "",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 3",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 4",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 5",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 6",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 7",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 8",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 9",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Match 10",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Get MVP 1",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Get MVP 2",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Get SVP 1",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Get SVP 2",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win with 0 Deaths",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Most Kills",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Most Assists",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Quintuple KO",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Sextuple KO",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Social"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Play with 2 Friends",
-            "category": ["Social"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Play 18 vs 18",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Comp Win 24+ RR",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Handicap"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Handicap"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Handicap"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Inverted Controls",
-            "category": ["Handicap"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Take First Point",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "CC 3 Ults",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win as Tank",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win as Healer",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "DPS 20k Damage",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Healer 10k Heal",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Healer 20k Heal",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Tank 10k Block",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Tank 20k Block",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Keep Teammate Alive Match",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Keep Teammate Alive Round",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Most Damage",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Most Blocked",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Most Healing",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Full Heal 3 Critical Teammates",
-            "category": ["Role"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Get Ult 5 Times",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Kill 3 in 1 Ult",
-            "category": ["Combat"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win No Ult Usage",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Full Team Combo",
-            "category": ["Social"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win After Penalty",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "3 Match Streak",
-            "category": ["General"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Only Tanking",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Win Within 6 Mins",
-            "category": ["Challenge"],
-            "region": "Active Matches"
-        },
-        {
-            "name": "Final Goal",
-            "category": ["General"],
-            "region": "Active Matches",
-            "victory": true
-        }
-    ]
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "THIS ONE IS ALL MINE!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "My name is steve!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "And as a child i YEARNED for the mines.",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“GO ON! GET OUT OF HERE.”",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"WAS MY SOUL!\"",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "THE MINES!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "And this time i was unstoppable!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“HEAD FAKE!”",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“THIS THINGY”",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“THAT COOL THINGY”",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "IT OPENED A PORTAL TO ANOTHER WORLD",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "THE OVERWORLD!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "WOAH!!!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "PINK HOUSE!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "Crusty femur bone!",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“WELCOME TO STEEEVES”",
+      "region": "First 5 Mins",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "FLINT AND STEEL",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "FLINT AND STEEL X2",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "FLINT AND STEEL X3",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "THE NETHER",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "THE NETHER X2",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "THE NETHER X3",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "A cuube!",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“SIEZE THEM!”",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"RUN FLUFF NUGGET!\"",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"UNDER MY waterbed\"",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "[TITLE CARD]",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "EARNED HIM THE NICKNAME “THE GARBAGE MAN”",
+      "region": "10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“WHOO YEAH SUPER COOL!”",
+      "region": "15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Im about to shove some coal into your choo choo train”",
+      "region": "15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "DANTDM CAMEO!",
+      "region": "15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“That the real treasure. Is the friends we made along the way.”",
+      "region": "15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*garret having an emotional breakdown*",
+      "region": "15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Smells like banana bread and poo.”",
+      "region": "20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Thats not a puzzle thats a picture!”",
+      "region": "20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“I teach gym. I teach art.”",
+      "region": "20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“One orange. One banana.”",
+      "region": "20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Salt Sacks”",
+      "region": "25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“I have 26 Bucks”",
+      "region": "25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“It feels like it wants to go somewhere!”",
+      "region": "25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“HENRY LET GO OF THAT THING”",
+      "region": "25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*Nitwit being dumb*",
+      "region": "25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“How will THAT help me find more gold?”",
+      "region": "30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“It would be a privilege my liege”",
+      "region": "30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“SNEAK ATTACK!”",
+      "region": "30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Hola, Wise quest giver.”",
+      "region": "30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Relaje”",
+      "region": "30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“HOWS HE DOING THAT!?!?”",
+      "region": "35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“SNEAK ATTACK!”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Who are you?”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“IIII am steve.”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“IIII am STEEEVE.”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“DO YOU EVEN KNOW WHAT THAT IS?”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Big fat Dumparoo”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“He did just kill like 20 zombies.”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“I will crack your cabezza with my butt cheeks”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“They’re the villagers!”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Woah! Is he some sort of king?”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“No. Thats a legend.”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "TECHNOBLADE NEVA DIES",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Pretty killer for a first build.”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Relax. Its just an iron golem.”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“COME WITH ME!”",
+      "region": "40 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"You ever wonder what happens when you mix hot lava with chicken?”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“La-La-La-LAVA”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“LAVA ATTACK!”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Friggin loser\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“GARRET WAIT\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Big time idiot\" ",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“GENERAL CHUNGUS”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“No way, I love that place!”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Take this nether wart\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Woodland mansion thing\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Massive red shrooms”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“Massive red shrooms?”",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Spin kick!\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"The stash!\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Diamond armor. FULL SET\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Bogus layout bro\"",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Tray-sures\" (Treasures*)",
+      "region": "45 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"No biggie.\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"This is a crafting table!\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"and KABOOM!\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"KADOOSH\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Buck-Chuckets\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Abso-rutin-tutly\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"The mines can be parlous\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Uh oh\" (Villager)",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*Scared Llama*",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"CRAP Chungus\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Some dungeon stuff\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"This pig is mine!\" (Steve)",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"this pig is mine.\" (Garret)",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"COME ON LETS DO THIS\"",
+      "region": "50 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Thanks big guy! (Garret)\"",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*Slow-mo* \"HENRY\"",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"ELYTRA WINGSUITS\"",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Buenos Di-ass\"",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"COMING IN HOT!\"",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "say gex scene between steve and garret",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "HOG RIDAAAAA",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"WE’RE TOO CHUNKY\"",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "say gex scene X2",
+      "region": "55 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"WATER BUCKET. RELEASE!\"",
+      "region": "1 Hour in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "“BOAT MAGIC” ",
+      "region": "1 Hour in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "JEB CAMEO!?!",
+      "region": "1 Hour in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Gorgonzola.\"",
+      "region": "1 Hour in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*THE NETHERS GOT TALENT!*",
+      "region": "1 Hour in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"World Class Dancer\"",
+      "region": "1 Hour in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "1 Hour in",
+      "name": "\"No one in the nether was ready for it\"",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"GENERAL CHUNGUS\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"BRING OUT THE BEAST\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"It wasn't my best day\" :(",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"THE GREAT HOG\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"KILL HIM\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Wait does this mean your firing me?\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Arent you a beautiful one~!\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"SON OF A BISCUT WE FOUND IT\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"See that glowy stuff. Thats redstone!\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Mah diamonds.\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"RUN FOR THE MINECARTS\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "I BUILT A KICK-ASS SAFE ROOM",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"My creeper farm\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"GO GARRET GO FASTER\"",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"START SLAPPING HANK\" (pause?)",
+      "region": "1 Hour 5 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Nice work Gar-Gar.\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*Garret tries to speak spanish again.*",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"No I think hes swedish\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"VINDICATORS\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"EVOKERSSS\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"YOU ARE LITERALY THE WORST PERSON IN THE ENTIRE WORLD\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"THE LOOT CHAMBER\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"DO NOT Look them in the eye\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"BIRTHDAY CAKE\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"BIRTHDAY SUIT\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"GO HANK GO WHILE WE BLOW!\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"You gotta be kidding me\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"REACH DOWN DEEP\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"they want me to fight the chicken?\"",
+      "region": "1 Hour 10 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"CHICKEN JOCKEY\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"CHICKEN JOCKEY\" X2",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"CHICKEN JOCKEY\" X3",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"CHICKEN JOCKEY\" X4",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*this baby zombies gots some moves!*",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*Enderman Groan*",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"DONT FALL FOR IT GAR-GAR\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"SNEAK ATTACK\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"You.. You saved my life\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Lets get out of this hellhole!\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "region": "1 Hour 15 Minutes in",
+      "name": "\"ITS HER!\"",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"MALGOSHA YOUR REIN IS OVER\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"They are gonna blow this bridge SKY HIGH!\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"SLIME CUBE!\"",
+      "region": "1 Hour 15 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"I love Luous.\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"BRACE FOR IMPACT!\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Hes fine! Just resting.\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"GOT IT TRAVIS?\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"THE GREAT DARKENING!\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Well what’re we doing here?\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Lets do it for Gar-Gar\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"First we mine.\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Then we craft.\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"LETS MINECRAFT!\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Oh yeah.\" (Dawn)",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"TIME TO LIGHT THIS PLACE UP!\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Show me what you got nat!\"",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"We’re ready.\" :3 ",
+      "region": "1 Hour 20 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"BRING ME THE GOLD!\"",
+      "region": "1 Hour 25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*Big blue :3 (aka taylor swift golem)*",
+      "region": "1 Hour 25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"NEWS FLASH\"",
+      "region": "1 Hour 25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"REAL SMOOTH TRAVIS\"",
+      "region": "1 Hour 25 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Lets do this.\" (nat)",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"How do you like them PORKCHOPS\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Okay, gauche.\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"SNEAK ATTACKKKKKKKKKK\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"EGG ATTACK HRAW\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"HEY CAPPAN BUTT CRACK\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Get em dennis.\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"TAKE A BITE OUTTA THAT PIG\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"GOTcha kid!\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"I want you to jab it in the tentacles\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"HOWD YA LEARN TO DO THAT!?!\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"dont ask...\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "*TAYLOR SWIFT VS TERRANCE!! TAYLOR WINS!*",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"PARRY! THRUST!\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"You failed witch.\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Has been a HORROR SHOW WASTE OF TIME!\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Cmere boy.\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"Go now, DENNIS!\"",
+      "region": "30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"GO NOW LEGENDARY WOLF OF MY DREAMS\"",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"My Dennis! AWOOOOO \"*gif of wolf ripping shirt*",
+      "region": "1 Hour 30 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"SCrew it. I’m Coming with.\"",
+      "region": "1 Hour 35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"THE HOT SPOT!\"",
+      "region": "1 Hour 35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"LIFE IS MINECRAFT\" (“Life is perfect”)",
+      "region": "1 Hour 35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"DOWN IN THE MINES!\"",
+      "region": "1 Hour 35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"SURVIVAL MODE SELF DEFENCE!\"",
+      "region": "1 Hour 35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"WITH THE POWER OF THE WOLF INSIDE!\"",
+      "region": "1 Hour 35 Minutes in",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "So how are you liking these end credits?",
+      "region": "Last 5 Minutes",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "\"I’m Alex btw~\"",
+      "region": "Last 5 Minutes",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "victory": false,
+      "name": "OMG OMG OMG ITS ALEX",
+      "region": "Last 5 Minutes",
+      "category": [],
+      "requires": ""
+    },
+    {
+      "name": "You are the Minecrafter!",
+      "victory": true,
+      "category": [
+        "VICTORY"
+      ],
+      "requires": "|Progressive 5 Minutes:20| AND |Orb of Dominance| AND |Earth Crystal|"
+    }
+  ]
 }

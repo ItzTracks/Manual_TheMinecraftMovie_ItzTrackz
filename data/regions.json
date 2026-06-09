@@ -1,9 +1,84 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "Game Start": {
-        "connects_to": ["Active Matches"],
-        "starting": true
-    },
-    "Active Matches": {
-    }
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "First 5 Mins": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes|"
+  },
+  "10 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:2|"
+  },
+  "15 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:3|"
+  },
+  "20 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:4|"
+  },
+  "25 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:5|"
+  },
+  "30 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:6|"
+  },
+  "35 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:7|"
+  },
+  "40 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:8|"
+  },
+  "45 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:9|"
+  },
+  "50 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:10|"
+  },
+  "55 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:11|"
+  },
+  "1 Hour in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:12|"
+  },
+  "1 Hour 5 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:13|"
+  },
+  "1 Hour 10 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:14|"
+  },
+  "1 Hour 15 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:15|"
+  },
+  "1 Hour 20 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:16|"
+  },
+  "1 Hour 25 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:17|"
+  },
+  "1 Hour 30 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:18|"
+  },
+  "1 Hour 35 Minutes in": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:19|"
+  },
+  "Last 5 Minutes": {
+    "connects_to": [],
+    "requires": "|Progressive 5 Minutes:20|"
+  }
 }
